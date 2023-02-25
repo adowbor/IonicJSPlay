@@ -1,0 +1,8 @@
+{
+  "name": "ugzyxg--run",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@ionic/core": "6.5.6"
+  }
+}
